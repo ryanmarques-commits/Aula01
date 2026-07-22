@@ -35,4 +35,4 @@ console.log(`ola, ${nome}!`);
 | html | Sim | Ativo |
 | Markdown | sim | Ativo |
 
-![PC](PCs.jpg)
+![PC](PCsla.webp)
